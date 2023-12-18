@@ -52,7 +52,8 @@ if __name__ == '__main__':
 
     # Define Faster R-CNN model
     model = FasterRCNN(backbone,
-                       num_classes=91,  # Number of classes in COCO dataset
+                       num_classes=4,  # Number of classes in COCO dataset
                        rpn_anchor_generator=anchor_generator)
 
-    model.to(device)
+    model.to(device
+             ##Hey there
