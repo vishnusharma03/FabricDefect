@@ -1,0 +1,14 @@
+catboost==1.0.4
+joblib==1.1.0
+lightgbm==3.3.2
+optuna==2.10.0
+streamlit==1.8.1
+xgboost==1.5.2
+markupsafe==1.1.1
+zenml~=0.47.0
+
+Pillow~=10.1.0
+torch~=2.1.2
+torchvision~=0.16.2
+numpy~=1.24.4
+pymongo~=3.11.0
